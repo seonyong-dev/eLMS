@@ -1,5 +1,5 @@
 SVN으로 협업하여 작업했습니다.<br>
-프로젝트 원본 링크 : https://github.com/SEWONBAEK/eLMS.git<br>
+프로젝트 대표 링크 : https://github.com/SEWONBAEK/eLMS.git<br>
 핵심역할 및 기여 : 팀장 및 로그인 & 교사 파트 전반적인 로직 구현<br>
 
 <div align="center">
