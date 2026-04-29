@@ -136,8 +136,7 @@ Ajax를 활용한 비동기 통신 구조를 채택하여 화면 전환 없는 �
 
 ### 🤝 Collaboration
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![SVN](https://img.shields.io/badge/Subversion-FC9403?style=for-the-badge&logo=subversion&logoColor=white)
 ---
 
 <div align="right"><a href="#tableContents">목차로 이동</a></div>
